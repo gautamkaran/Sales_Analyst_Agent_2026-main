@@ -1,0 +1,13 @@
+﻿# UI and data
+streamlit>=1.40
+pandas>=2.2
+python-dotenv>=1.0
+
+# OpenAI Responses API integration (Phase 2)
+openai>=1.50
+
+# Google Sheets, Gmail, Calendar, and OAuth integrations (Phases 3, 5, 6)
+google-api-python-client>=2.150
+google-auth>=2.35
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2

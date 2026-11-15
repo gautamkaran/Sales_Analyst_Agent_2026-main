@@ -1,0 +1,17 @@
+﻿# Secrets and local OAuth credentials
+.env
+credentials/*
+!credentials/.gitkeep
+
+token.json
+token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
